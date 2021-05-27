@@ -1,0 +1,63 @@
+export const homeObjOne = {
+  lightBg: false,
+  primary: true,
+  imgStart: '' ,
+  lightTopLine: true ,
+  lightText:true ,
+  lightTextDesc: true,
+  topLine: 'Marketing Agency',
+  buttonLabel: 'Get Started' ,
+  headline: 'Lead Generation Specialist for Online Businesses',
+  description: 'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.' ,
+  start: '' ,
+  alt: 'Image' ,
+  img: require('../../images/svg-1.svg').default ,
+};
+
+export const homeObjTwo = {
+  lightBg: true,
+  primary: false,
+  imgStart:'start' ,
+  lightTopLine: false ,
+  lightText:false ,
+  lightTextDesc: false,
+  topLine: 'Marketing Agency',
+  buttonLabel: 'Get Started' ,
+  headline: 'Lead Generation Specialist for Online Businesses',
+  description: 'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.' ,
+  start: '' ,
+  alt: 'Image' ,
+  img: require('../../images/profile.jpg').default ,
+};
+
+export const homeObjThree = {
+  lightBg: false,
+  primary: true,
+  imgStart:'' ,
+  lightTopLine: true ,
+  lightText:true ,
+  lightTextDesc: true,
+  topLine: 'Marketing Agency',
+  buttonLabel: 'Get Started' ,
+  headline: 'Lead Generation Specialist for Online Businesses',
+  description: 'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.' ,
+  start: '' ,
+  alt: 'Image' ,
+  img: require('../../images/svg-2.svg').default ,
+}
+
+export const homeObjFour = {
+  lightBg: true,
+  primary: false,
+  imgStart:'start' ,
+  lightTopLine: false ,
+  lightText:false ,
+  lightTextDesc: false,
+  topLine: 'Marketing Agency',
+  buttonLabel: 'Get Started' ,
+  headline: 'Lead Generation Specialist for Online Businesses',
+  description: 'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.' ,
+  start: '' ,
+  alt: 'Image' ,
+  img: require('../../images/svg-3.svg').default ,
+}
